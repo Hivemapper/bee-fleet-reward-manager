@@ -1,4 +1,4 @@
-# Bee Fleet Rewards Dashboard
+# Fleet Rewards Dashboard
 
 A web dashboard for Hivemapper fleet managers to monitor their dashcam fleet, track HONEY token rewards, and view driver locations.
 
