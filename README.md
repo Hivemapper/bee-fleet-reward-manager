@@ -2,6 +2,14 @@
 
 A web dashboard for Hivemapper fleet managers to monitor their dashcam fleet, track HONEY token rewards, and view driver locations.
 
+## Screenshots
+
+### Fleet Overview
+![Fleet Overview](docs/fleet-overview.png)
+
+### Driver Detail
+![Driver Detail](docs/driver-detail.png)
+
 ## Features
 
 - **Fleet Overview** — View all devices in your fleet with driver names, locations, device IDs, current week's HONEY rewards, and mount ratings
